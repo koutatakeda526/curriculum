@@ -1,0 +1,67 @@
+@media screen and (max-width: 479px) {
+
+    .wrapper {
+        width: 200px;
+    }
+
+    .header {
+        width: 200px;
+        height: 200px;
+        position: relative;
+       
+        
+    }
+
+    .headerBox {
+        width: 60px;
+        height: 160px;
+        float: none;
+        position: absolute;
+        left: 50px;
+    }
+
+    .headerBox1 {
+        top: 10px; left: 10px;
+    }
+
+    .headerBox2 {
+        top: 60px; left: 10px;
+    }
+
+    .headerBox3 {
+        top: 110px; left: 10px;
+    }
+
+    .content {
+        width: 200px;
+        height: 100px;
+    }
+
+    .right {
+        width: 200px;
+        height: 180px;
+    }
+
+    .rightBox1 {
+        top: 20px; left: 30px;
+        box-sizing: border-box;
+    }
+
+    .rightBox2 {
+        top: 70px; left: 30px;
+        box-sizing: border-box;
+    }
+    
+    .rightBox3 {
+        top: 120px; left: 30px;
+        box-sizing: border-box;
+    }
+    .footer {
+        width: 200px;
+    }
+
+   /* 要素の浮動化の解除 */
+    .content {
+        float: none;   
+    }
+}

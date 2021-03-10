@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet"　href="style.css">
+<link rel="stylesheet" href="style.css">
 <title>Insert title here</title>
 </head>
 <body>
@@ -13,16 +13,16 @@
 
 <div class="login">
 
-<table>
-	<tr>
-	<td class="code">name</td>
-	<td><input type="text"></td>
-	</tr>
-	<tr>
-	<td class="code">id</td>
-	<td><input type="text" ></td>
-	</tr>
-</table>
+   	<table>
+		<tr>
+			<td class="code">name</td>
+			<td><input type="text"></td>
+		</tr>
+		<tr>
+			<td class="code">id</td>
+			<td><input type="text" ></td>
+		</tr>
+	</table>
 
 </div>
 
